@@ -7,4 +7,4 @@ Started programming at 12 with C++ and have since explored Python, JavaScript, R
 - **Discord bot** and **Vue** application with AI integration for server management.
 - **AI optimization projects** and experimenting with social media bots.
 
-Always learning and open to collaboration. Feel free to reach out!
+Always learning and open to collaboration
