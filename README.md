@@ -5,6 +5,6 @@ Started programming at 12 with C++ and have since explored Python, JavaScript, R
 
 - **Selenium & Pandas** automation and other tech for scalable data analysis.
 - **Discord bot** and **Vue** application with AI integration for server management.
-- **AI optimization projects** and experimenting with social media bots.
+- **AI optimization closed projects** and experimenting with social media bots.
 
 Always learning and open to collaboration. Feel free to reach out!
