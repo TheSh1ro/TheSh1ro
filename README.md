@@ -1,4 +1,4 @@
-**Programmer, passionate about problem-solving and new tech**  
+**Programmer, I like to problem-solving and learn new techs**  
 Started programming at 12 with C++ and have since explored Python, JavaScript, React, Vue, and Django. Currently working on:
 
 - **Selenium & Pandas** automation and other tech for scalable data analysis.
