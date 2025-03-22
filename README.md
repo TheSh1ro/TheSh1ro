@@ -1,3 +1,5 @@
+Preferred area: Front End
+
 **Programmer, I like to problem-solving and learn new techs**  
 Started programming at 12 with C++ and have since explored Python, JavaScript, React, Vue, and Django. Currently working on:
 
