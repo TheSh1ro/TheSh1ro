@@ -1,10 +1,11 @@
-Preferred area: Front End
+**Programmer, I like to problem-solving and learn new techs whenever possible, although I have a special fondness for javascript**  
+Started coding at 12 with C++, later tried Python, JS/TS, React, Vue, Electron, and Django. 
+Familiarized with some databases and cloud services.
 
-**Programmer, I like to problem-solving and learn new techs**  
-Started programming at 12 with C++ and have since explored Python, JavaScript, React, Vue, and Django. Currently working on:
-
-- **Selenium & Pandas** automation and other tech for scalable data analysis.
-- **Discord bot** and **Vue** application with AI integration for server management.
+Currently working on:
+- **Selenium + Pandas** automation and other tech for scalable data analysis.
+- **Discord bot** and **Vue** application with AI integration for server management with personalities.
 - **AI optimization projects** and experimenting with social media bots.
+- **Private projects** such as business solutions
 
-Always learning and open to collaboration
+One of my main goals right now is connecting with other developers and build projects together.
