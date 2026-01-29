@@ -21,7 +21,7 @@ const profile = {
 <div>
   <h2 padding="20">Let's share build experiences =)</h2>
   <div>
-    <img align="left" height="80px" src="https://avatars.githubusercontent.com/u/83150503?v=4"/>
+    <img align="left" height="70px" src="https://avatars.githubusercontent.com/u/83150503?v=4"/>
     <p align="left">One of my main goals right now is connecting with other developers</p>
     <img align="left" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     <p align=left><strong>thesh1ro</strong> or <code>discord://-/users/650180750871756826</code> (paste on URL)</p>
