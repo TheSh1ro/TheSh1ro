@@ -36,6 +36,7 @@ const profile = {
 - **Selenium + Pandas** automation and other tech for scalable data analysis.
 - **Discord bot** with AI integration for server management with personalities, and Vue webapp complement // admin dashboard.
 - **AI optimization projects** and experimenting with social media bots / web3.
+- **Complex solutions** Web/mobile service order system with an offline-first architecture.
 - **Private projects** such as business solutions
 
 ---
