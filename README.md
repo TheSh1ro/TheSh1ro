@@ -66,7 +66,7 @@ const profile = {
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesh1ro&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSh1ro&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
