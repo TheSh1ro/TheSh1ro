@@ -7,6 +7,7 @@
 ## About Me
 
 I started coding at 12 with C++. Today I focus on problem solving and learning new technologies, while developing my side projects.
+I am in favor of using AI to accelerate deliveries, but without losing sight of the knowledge and understanding of the generated code.
 ```javascript
 const profile = {
     location: "Brazil",
