@@ -33,11 +33,13 @@ const profile = {
 
 ## Current Projects
 
-- **Selenium + Pandas** automation and other tech for scalable data analysis.
-- **Discord bot** with AI integration for server management with personalities, and Vue webapp complement // admin dashboard.
-- **AI optimization projects** and experimenting with social media bots / web3.
-- **Complex solutions** Web/mobile service order system with an offline-first architecture.
-- **Private projects** such as business solutions
+| Project | Description |
+|--------|-------------|
+|  **Discord Bot + Dashboard** | AI-powered bot with customizable personalities for server management, paired with a Vue.js admin dashboard |
+|  **Data Automation** | Scalable data pipelines using Selenium & Pandas for extraction, transformation and analysis |
+|  **Service Order System** | Full-stack web/mobile platform with offline-first architecture for field operations |
+|  **AI & Web3 Experiments** | Exploring LLM integrations, social media automation, and decentralized app concepts |
+|  **Private/Business Solutions** | Closed-source tools built for real-world business workflows |
 
 ---
 
