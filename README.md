@@ -20,7 +20,7 @@ const profile = {
 ```
 
 <div>
-  <h2 padding="20">Let's share build experiences =)</h2>
+  <h2 padding="20">Let's share build experiences, or build together =)</h2>
   <div>
     <img align="left" height="70px" src="https://avatars.githubusercontent.com/u/83150503?v=4"/>
     <p align="left">One of my main goals right now is connecting with other developers</p>
