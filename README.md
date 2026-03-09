@@ -35,10 +35,9 @@ const profile = {
 
 | Project | Description |
 |--------|-------------|
-|  **Discord Bot + Dashboard** | AI-powered bot with customizable personalities for server management, paired with a Vue.js admin dashboard |
+|  **Discord Bot + Dashboard** | AI powered bot with customizable personalities for server management, paired with a Vue.js admin dashboard |
 |  **Data Automation** | Scalable data pipelines using Selenium & Pandas for extraction, transformation and analysis |
-|  **Service Order System** | Full-stack web/mobile platform with offline-first architecture for field operations |
-|  **AI & Web3 Experiments** | Exploring LLM integrations, social media automation, and decentralized app concepts |
+|  **Service Order System** | Fullstack web/mobile platform with offline-first architecture for field operations |
 |  **Private/Business Solutions** | Closed-source tools built for real-world business workflows |
 
 ---
